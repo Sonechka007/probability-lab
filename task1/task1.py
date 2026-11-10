@@ -1,7 +1,5 @@
 """
 Задание 1. Bin(10; 0,5): генерация выборки и проверка закона больших чисел.
-Запуск: python task1.py  (графики сохраняются в папку figs/)
-Нужны библиотеки: numpy, scipy, matplotlib
 """
 import os
 import numpy as np
